@@ -1,11 +1,11 @@
-# ESPHome [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
+# LibreTuya ESPHome [![GitHub release](https://img.shields.io/github/release/kuba2k2/libretuya-esphome.svg)](https://gitHub.com/kuba2k2/libretuya-esphome/releases/)
 
-[![ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://esphome.io/)
+[![LibreTuya ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://docs.libretuya.ml/docs/projects/esphome/)
 
-This is the Home Assistant (former Hass.io) addon repository for ESPHome. For the ESPHome source please go to [esphome](https://github.com/esphome/esphome).
+This is the Home Assistant (former Hass.io) addon repository for LibreTuya ESPHome. For the LibreTuya ESPHome source please go to [libretuya-esphome](https://github.com/kuba2k2/libretuya-esphome).
 
-**Documentation:** https://esphome.io/
+**Documentation:** https://docs.libretuya.ml/docs/projects/esphome/
 
-For issues, please go to [the issue tracker](https://github.com/esphome/issues/issues).
+For issues, please go to [the issue tracker](https://github.com/kuba2k2/libretuya-esphome/issues).
 
-For feature requests, please see [feature requests](https://github.com/esphome/feature-requests/issues).
+For feature requests, please see [feature requests](https://github.com/kuba2k2/libretuya-esphome/issues).

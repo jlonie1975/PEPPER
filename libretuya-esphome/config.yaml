@@ -1,5 +1,4 @@
 ---
-advanced: true
 arch:
 - amd64
 - armv7
@@ -7,17 +6,17 @@ arch:
 auth_api: true
 backup_exclude:
 - '*/*/'
-description: Beta version of ESPHome add-on
+description: LibreTuya ESPHome add-on for intelligently managing all your ESP8266/ESP32 devices
 hassio_api: true
 host_network: true
-image: ghcr.io/esphome/esphome-hassio-{arch}
+image: ghcr.io/kuba2k2/libretuya-esphome-hassio-{arch}
 ingress: true
 ingress_port: 0
 init: false
 map:
 - ssl:ro
 - config:rw
-name: ESPHome (beta)
+name: LibreTuya ESPHome
 panel_icon: mdi:chip
 ports:
   6052/tcp: null
@@ -32,8 +31,7 @@ schema:
   ssl: bool?
   status_use_ping: bool?
   streamer_mode: bool?
-slug: esphome-beta
-stage: experimental
+slug: libretuya-esphome
 uart: true
-url: https://beta.esphome.io/
-version: 2022.12.3
+url: https://docs.libretuya.ml/docs/projects/esphome/
+version: latest

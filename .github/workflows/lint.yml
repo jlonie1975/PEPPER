@@ -13,9 +13,9 @@ jobs:
         channels:
           - folder: esphome
             channel: stable
-          - folder: esphome-beta
+          - folder: libretuya-esphome-beta
             channel: beta
-          - folder: esphome-dev
+          - folder: libretuya-esphome-dev
             channel: dev
     steps:
       - name: ⤵️ Check out code from GitHub
